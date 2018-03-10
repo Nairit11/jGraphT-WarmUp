@@ -20,7 +20,7 @@ bash main.sh input.dot person1 person2
 
 ## Tools required
 
-*Java
-*Maven
+* Java
+* Maven
 
 This application was built in NetBeansIDE, which can also be used to build and run the application 
